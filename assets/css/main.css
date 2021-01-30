@@ -4009,7 +4009,7 @@ font-family: 'Playfair Display', serif;
 	overflow: visible;
 	padding-top: 3em;
 	padding-bottom: 3em;
-	background: url("images/overlay.png"), url("../../images/rainbow1.jpg");
+	background: url("images/overlay.png"), url("../../images/Rainbow1.jpg");
 	background-size: 256px 256px, cover;
 	background-attachment: fixed, fixed;
 	background-position: top left, center center;
